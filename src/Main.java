@@ -1,5 +1,8 @@
-import test.Child;
-import test.Parent;
+import food.Sandwich;
+import polygraphy.RoundGlyph;
+import refcount.*;
+import test.*;
+import theater.Starship;
 import vehicle.*;
 import figures.*;
 import music.*;
@@ -68,6 +71,58 @@ public class Main {
 //        Parent child = new Child();
 //        child.fun1();
 
+//        Sandwich sandwich = new Sandwich();
 
+//        Hamster hamster = new Hamster();
+//        hamster.dispose();
+//        System.out.println();
+//        Mouse mouse = new Mouse();
+//        mouse.dispose();
+
+//        Shared shared = new Shared();
+//        Composing[] composings = {
+//          new Composing(shared),
+//          new Composing(shared),
+//          new Composing(shared),
+//          new Composing(shared),
+//          new Composing(shared)
+//        };
+//        for(Composing c : composings)
+//            c.dispose();
+
+//        Color color = new Color("brown");
+//        Rodent[] rodents = {
+//            new Mouse(color),
+//            new Hamster(color)
+//        };
+//        System.out.println();
+//        for (Rodent rodent : rodents)
+//            rodent.dispose();
+
+//        new RoundGlyph(5);
+
+//        var starship = new Starship();
+//        starship.info();
+//        starship.show();
+//        starship.warning();
+//        starship.show();
+//        starship.error();
+//        starship.show();
+
+        Cycle unicycle = new Unicycle();
+        Cycle bicycle = new Bicycle();
+        Cycle triCycle = new Tricycle();
+        Cycle[] vehicles = {
+            unicycle,
+            bicycle,
+            triCycle
+        };
+
+        for(Cycle cycle : vehicles)
+            cycle.balance();
+
+        ((Unicycle)unicycle).balance();
+        ((Bicycle)unicycle).bicycle();
+        ((Tricycle)unicycle).triCycle();
     }
 }

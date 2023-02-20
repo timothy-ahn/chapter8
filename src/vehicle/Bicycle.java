@@ -11,4 +11,8 @@ public class Bicycle extends Cycle {
     public void wheels() {
         System.out.println("two wheels");
     }
+
+    public void balance() {
+        System.out.println("Bicycle.balance()");
+    }
 }

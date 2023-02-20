@@ -4,39 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="103d57fb-d0d6-415a-ae58-0f5fe2778f48" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures/RandomShapeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures/Rhombus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/figures/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Brass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Note.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Percussion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/RandomInstrumentGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Stringed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Wind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/music/Woodwind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rodents/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rodents/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rodents/Rodent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vehicle/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vehicle/Cycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vehicle/Tricycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vehicle/Unicycle.java" afterDir="false" />
+    <list default="true" id="103d57fb-d0d6-415a-ae58-0f5fe2778f48" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/food/Bread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/food/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/food/Lettuce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/food/Lunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/food/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/food/Pickle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/food/PortableLunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/food/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polygraphy/Glyph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polygraphy/RoundGlyph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refcount/Composing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refcount/Shared.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rodents/Characteristic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rodents/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rodents/Description.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater/AlertStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater/ErrorAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater/HappyActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater/InfoAlert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater/SadActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater/Stage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater/Starship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater/WarningAlert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rodents/Hamster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rodents/Hamster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rodents/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rodents/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rodents/Rodent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rodents/Rodent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vehicle/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicle/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vehicle/Unicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vehicle/Unicycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +62,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,6 +78,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676807064340</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1676814682699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676814682699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
